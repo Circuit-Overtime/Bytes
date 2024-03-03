@@ -1,9 +1,9 @@
-**Welcome to Byutes Coding Group Repository!**
+**Welcome to Bytes Coding Group Repository!**
 
-![Byutes Coding Group Logo](https://firebasestorage.googleapis.com/v0/b/birthday-1340e.appspot.com/o/Assests%2Ffile.png?alt=media&token=a4f273ac-24d2-44d3-ac75-535e97920b0a)
+![Bytes Coding Group Logo](https://firebasestorage.googleapis.com/v0/b/birthday-1340e.appspot.com/o/Assests%2Ffile.png?alt=media&token=a4f273ac-24d2-44d3-ac75-535e97920b0a)
 
 ### About Us
-Byutes is a small coding group where passionate developers come together to discuss and collaborate on various programming projects. We delve into a wide range of topics including C, Python, Data Structures and Algorithms (DSA), and various Computer Science subjects.
+Bytes is a small coding group where passionate developers come together to discuss and collaborate on various programming projects. We delve into a wide range of topics including C, Python, Data Structures and Algorithms (DSA), and various Computer Science subjects.
 
 ### Repository Overview
 This repository serves as a hub for all our projects and discussions. Here you'll find a collection of our collaborative efforts, ranging from simple scripts to complex algorithms implementations.
@@ -28,8 +28,8 @@ Interested in joining our coding group? Whether you're a seasoned developer or j
 
 ### Contact Us
 Have questions, suggestions, or just want to say hi? Reach out to us via:
-- Email: byutes@example.com
-- Discord: [Byutes Discord Server](https://discord.gg/CPgr4dBzjt)
+- Whatsapp Channel: https://whatsapp.com/channel/0029VaSCtdnAjPXNVSQ6UP1x
+- Discord: [Bytes Discord Server](https://discord.gg/CPgr4dBzjt)
 
 ### Let's Code Together!
 Join us in our journey to explore the vast world of programming and computer science. Together, let's learn, create, and innovate! 🚀
